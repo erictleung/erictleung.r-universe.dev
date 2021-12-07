@@ -1,0 +1,14 @@
+[
+    {
+        "package": "pixarfilms",
+        "url": "https://github.com/erictleung/pixarfilms"
+    },
+    {
+        "package": "hp",
+        "url": "https://github.com/erictleung/hp"
+    },
+    {
+        "package": "unnestIfElse",
+        "url": "https://github.com/erictleung/unnestIfElse"
+    }
+]

@@ -8,6 +8,10 @@
         "url": "https://github.com/erictleung/hp"
     },
     {
+        "package": "jwst",
+        "url": "https://github.com/erictleung/jwst"
+    },
+    {
         "package": "unnestIfElse",
         "url": "https://github.com/erictleung/unnestIfElse"
     }

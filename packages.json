@@ -14,5 +14,9 @@
     {
         "package": "unnestIfElse",
         "url": "https://github.com/erictleung/unnestIfElse"
+    },
+    {
+        "package": "pyblack",
+        "url": "https://github.com/erictleung/pyblack"
     }
 ]
